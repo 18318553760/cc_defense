@@ -1,0 +1,6 @@
+# github.com/astaxie/beego v1.12.0
+github.com/astaxie/beego/logs
+# github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644
+github.com/shiena/ansicolor
+# github.com/thinkeridea/go-extend v1.1.1
+github.com/thinkeridea/go-extend/exnet
